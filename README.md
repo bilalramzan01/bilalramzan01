@@ -2,21 +2,21 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bilalramzan01&color=blue&style=flat-square)
 
-👋 Hi, I'm **Bilal Ramzan**, a passionate **Data Scientist & AI enthusiast** and Computer Science student at **Minhaj University Lahore**.  
-I specialize in leveraging **data-driven and AI-based approaches** to solve practical problems and enable informed decision-making across diverse domains.
+👋 Hi, I'm **Bilal Ramzan**, a **Computer Science graduate** and **Data Scientist & AI enthusiast** from Lahore, Pakistan.  
+I specialize in applying **data science, machine learning, and AI-driven approaches** to solve real-world problems and support informed decision-making across diverse domains.
 
 ---
 
 ## 🧠 Summary
 
-I am currently pursuing a **Bachelor’s degree in Computer Science** at Minhaj University Lahore, with a strong focus on **Data Science, Artificial Intelligence, and Machine Learning**.
+I have **completed my Bachelor’s degree in Computer Science** from **Minhaj University Lahore**, with a strong academic and practical focus on **Data Science, Artificial Intelligence, and Machine Learning**.
 
-In addition to my academic pursuits, I have:
-- Hands-on experience in **website development**
-- Worked across **multiple domains**
-- Completed several **data science and AI projects**
+Alongside my academic journey, I have:
+- Hands-on experience in **data science and AI projects**
+- Strong background in **web development across multiple domains**
+- Practical exposure to **industry-level tools and workflows**
 
-🎯 My ultimate goal is to become a **proficient Data Scientist & AI Engineer** and contribute to impactful, real-world solutions.
+🎯 My long-term goal is to grow as a **professional Data Scientist & AI Engineer** and contribute to impactful, data-driven solutions at a global scale.
 
 ---
 
@@ -38,11 +38,11 @@ In addition to my academic pursuits, I have:
 
 ### **Minhaj University Lahore**
 **Final Year Project – CardioGraph Pro**  
-*March 2024 – Present*  
+*March 2024 – April 2025*  
 📍 Lahore, Punjab, Pakistan  
 
-Currently working on **CardioGraph Pro**, an AI-powered system for **early heart disease prediction** using machine learning and advanced data analytics.  
-The goal is to improve early diagnosis and promote proactive healthcare solutions worldwide.
+Developed **CardioGraph Pro**, an AI-powered system focused on **early heart disease prediction** using machine learning models and advanced data analytics techniques.  
+The project aims to enhance early diagnosis, improve healthcare decision-making, and promote preventive care solutions.
 
 ---
 
@@ -68,14 +68,15 @@ The goal is to improve early diagnosis and promote proactive healthcare solution
 
 ### **Minhaj University Lahore**
 **Bachelor of Science (BS) – Computer Science**  
-*April 2021 – April 2025*
+*April 2021 – April 2025*  
+✅ **Degree Completed**
 
 ---
 
 ## 🚀 Projects
 
 - **CardioGraph Pro**  
-  AI-driven heart disease prediction system using machine learning and advanced data analysis techniques.
+  An AI-based heart disease prediction system utilizing machine learning algorithms and advanced data analysis techniques.
 
 ---
 
