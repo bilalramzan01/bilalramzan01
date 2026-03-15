@@ -109,8 +109,7 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
     style="display: block;"
   />
  ## ⏱ WakaTime Stats
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bilalramzan01&layout=compact&card_width=400&title_color=ffffff&hide_border=true&theme=github_dark" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bilalramzan01&layout=compact&theme=github_dark" />
 
 </div>
 
