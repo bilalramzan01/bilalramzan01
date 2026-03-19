@@ -121,7 +121,6 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
   </tr>
 </table>
 ---
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalramzan01\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=percentile)](https://github.com/bilalramzan01)
 
 ## 📫 Let's Connect
 
