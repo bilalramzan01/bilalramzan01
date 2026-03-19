@@ -103,11 +103,12 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilalramzan01&theme=radical&hide_border=true)
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&card_width=400&langs_count=6&hide=CSS,HTML,JavaScript,Jupyter%20Notebook,HCL,Kotlin,C%23,EJS,C&title_color=ffffff&hide_border=true&theme=github_dark" 
-    width="400" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&card_width=400&langs_count=10&count_private=true&title_color=ffffff&hide_border=true&theme=github_dark" 
+  width="400" 
     style="display: block;"
-  />
+/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bilalramzan01&layout=compact&theme=github_dark" />
 
 </div>
