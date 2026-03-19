@@ -113,11 +113,8 @@ width="400"
 src="https://github-readme-stats.vercel.app/api/wakatime?username=bilalramzan01&layout=compact&theme=github_dark" 
 />
 
-</div>
-
-<br/>
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalramzan01\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=percentile)](https://github.com/bilalramzan01)
+</div>
 
 ---
 
