@@ -102,22 +102,20 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilalramzan01\&theme=radical\&hide_border=true)
 
-<div align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&langs_count=10&count_private=true&title_color=ffffff&hide_border=true&theme=github_dark" 
-width="400" 
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&langs_count=10&count_private=true&title_color=ffffff&hide_border=true&theme=github_dark" 
+  width="400" 
+  style="display: block;"
 />
-
-<img 
-src="https://github-readme-stats.vercel.app/api/wakatime?username=bilalramzan01&layout=compact&theme=github_dark" 
-/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalramzan01\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=percentile)](https://github.com/bilalramzan01)
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=bilalramzan01&layout=compact&card_width=400&title_color=ffffff&hide_border=true&theme=github_dark" 
+    width="400" 
+    style="display: block;"
+  />
 </div>
-
 ---
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalramzan01\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=percentile)](https://github.com/bilalramzan01)
 
 ## 📫 Let's Connect
 
