@@ -104,11 +104,18 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   
+<div align="center">
+
+### 💻 Most Used Languages
+
+<div style="background-color:#0d1117; padding:20px; border-radius:12px; border:1px solid #30363d; display:inline-block;">
   <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&card_width=400&langs_count=10&count_private=true&title_color=ffffff&hide_border=true&theme=github_dark" 
-  width="400" 
-    style="display: block;"
-/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&langs_count=10&count_private=true&title_color=ffffff&hide_border=true&theme=github_dark" 
+    width="400"
+  />
+</div>
+
+</div>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bilalramzan01&layout=compact&theme=github_dark" />
 
 </div>
