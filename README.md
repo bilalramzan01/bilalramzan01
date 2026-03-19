@@ -102,18 +102,19 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilalramzan01\&theme=radical\&hide_border=true)
 
-<table cellspacing="20">
+<table>
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&langs_count=10&count_private=true&title_color=ffffff&hide_border=true&theme=github_dark" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&langs_count=10&count_private=true&hide=jupyter%20notebook&title_color=ffffff&hide_border=true&theme=github_dark" 
         width="400"
         style="border-radius: 15px;"
-      />
+      /> 
     </td>
+    <td width="30"></td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=bilalramzan01&layout=compact&card_width=400&title_color=ffffff&hide_border=true&theme=github_dark" 
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&card_width=400&title_color=ffffff&hide_border=true&theme=github_dark" 
         width="400"
         style="border-radius: 15px;"
       />
