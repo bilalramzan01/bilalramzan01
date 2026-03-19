@@ -102,25 +102,16 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilalramzan01\&theme=radical\&hide_border=true)
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&langs_count=10&count_private=true&hide=jupyter%20notebook&title_color=ffffff&hide_border=true&theme=github_dark" 
-        width="400"
-        style="border-radius: 15px;"
-      /> 
-    </td>
-    <td width="30"></td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&card_width=400&title_color=ffffff&hide_border=true&theme=github_dark" 
-        width="400"
-        style="border-radius: 15px;"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&card_width=400&langs_count=6&hide=CSS,HTML,JavaScript,Jupyter%20Notebook,HCL,Kotlin,C%23,EJS,C&title_color=ffffff&hide_border=true&theme=github_dark" 
+    width="400"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=bilalramzan01&layout=compact&card_width=400&title_color=ffffff&hide_border=true&theme=github_dark" 
+    width="400"
+  />
+</p>
 ---
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalramzan01\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=percentile)](https://github.com/bilalramzan01)
 
