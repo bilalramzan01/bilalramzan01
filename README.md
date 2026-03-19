@@ -111,7 +111,7 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&card_width=400&title_color=ffffff&hide_border=true&theme=github_dark" 
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=bilalramzan01E&layout=compact&card_width=400&title_color=ffffff&hide_border=true&theme=github_dark" 
     width="400"
     style="display: block; border-radius: 12px;"
   />
