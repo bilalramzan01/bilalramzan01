@@ -88,58 +88,19 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 
 ## 🚀 Skills
 
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br><br>
-<b>Python</b><br>
-AI • Backend
-</td>
+<div align="center">
 
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/><br><br>
-<b>C</b><br>
-Programming
-</td>
+![Website Development](https://img.shields.io/badge/Website%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Mobile App Development](https://img.shields.io/badge/Mobile%20App%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![WordPress Development](https://img.shields.io/badge/WordPress%20Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br><br>
-<b>Web Dev</b><br>
-HTML • CSS
-</td>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br><br>
-<b>SQL</b><br>
-Database
-</td>
-</tr>
+![IoT](https://img.shields.io/badge/IoT-FF5E00?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-<tr><td colspan="4"><br></td></tr>
-
-<tr>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/><br><br>
-<b>Machine Learning</b>
-</td>
-
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60"/><br><br>
-<b>Computer Vision</b>
-</td>
-
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60"/><br><br>
-<b>Mobile Apps</b>
-</td>
-
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="60"/><br><br>
-<b>IoT</b>
-</td>
-</tr>
-
-</table>
+</div>
 
 ## 📈 GitHub Stats
 
