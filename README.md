@@ -97,7 +97,6 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
 ![IoT](https://img.shields.io/badge/IoT-FF5E00?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 </div>
