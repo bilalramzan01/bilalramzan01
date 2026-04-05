@@ -102,6 +102,15 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilalramzan01\&theme=radical\&hide_border=true)
 
+## 📊 Most Used Languages
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&langs_count=8&theme=github_dark&hide_border=true" 
+    alt="Most Used Languages" 
+  />
+</p>
+
 <table cellspacing="20">
   <tr>
     <td>
