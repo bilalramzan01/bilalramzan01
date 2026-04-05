@@ -88,76 +88,59 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 
 ## 🚀 Skills
 
-<table width="100%" align="center">
+<table width="100%">
 <tr>
-
-<td align="center" width="25%" style="padding: 20px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-
-### Python  
-AI • Backend  
-
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br><br>
+<b>Python</b><br>
+AI • Backend
 </td>
 
-<td align="center" width="25%" style="padding: 20px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/>
-
-### C  
-Programming  
-
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/><br><br>
+<b>C</b><br>
+Programming
 </td>
 
-<td align="center" width="25%" style="padding: 20px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-
-### Web Dev  
-HTML • CSS  
-
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br><br>
+<b>Web Dev</b><br>
+HTML • CSS
 </td>
 
-<td align="center" width="25%" style="padding: 20px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
-
-### SQL  
-Database  
-
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br><br>
+<b>SQL</b><br>
+Database
 </td>
-
 </tr>
 
+<tr><td colspan="4"><br></td></tr>
+
 <tr>
-
-<td align="center" width="25%" style="padding: 20px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
-
-### ML  
-
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/><br><br>
+<b>Machine Learning</b>
 </td>
 
-<td align="center" width="25%" style="padding: 20px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60"/>
-
-### CV  
-
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60"/><br><br>
+<b>Computer Vision</b>
 </td>
 
-<td align="center" width="25%" style="padding: 20px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60"/>
-
-### Mobile  
-
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60"/><br><br>
+<b>Mobile Apps</b>
 </td>
 
-<td align="center" width="25%" style="padding: 20px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="60"/>
-
-### IoT  
-
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="60"/><br><br>
+<b>IoT</b>
 </td>
-
 </tr>
 
 </table>
+
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilalramzan01\&theme=radical\&hide_border=true)
