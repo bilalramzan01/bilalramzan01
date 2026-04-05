@@ -97,14 +97,6 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 ### Python  
 AI • Automation • Backend  
 
-<a href="mailto:bilalramzan.cs@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/923054781924">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
 </td>
 
 <td align="center" width="25%">
@@ -112,14 +104,6 @@ AI • Automation • Backend
 
 ### C Language  
 Programming • Logic  
-
-<a href="mailto:bilalramzan.cs@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/923054781924">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
 
 </td>
 
@@ -129,14 +113,6 @@ Programming • Logic
 ### Web Development  
 HTML • CSS • WordPress  
 
-<a href="mailto:bilalramzan.cs@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/923054781924">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
 </td>
 
 <td align="center" width="25%">
@@ -144,14 +120,6 @@ HTML • CSS • WordPress
 
 ### SQL / Database  
 Queries • Data  
-
-<a href="mailto:bilalramzan.cs@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/923054781924">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
 
 </td>
 
@@ -165,14 +133,6 @@ Queries • Data
 ### Machine Learning  
 Models • Prediction  
 
-<a href="mailto:bilalramzan.cs@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/923054781924">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
 </td>
 
 <td align="center" width="25%">
@@ -180,14 +140,6 @@ Models • Prediction
 
 ### Computer Vision  
 Image Processing  
-
-<a href="mailto:bilalramzan.cs@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/923054781924">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
 
 </td>
 
@@ -197,14 +149,6 @@ Image Processing
 ### Mobile Apps  
 Android • XML • Java  
 
-<a href="mailto:bilalramzan.cs@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/923054781924">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
 </td>
 
 <td align="center" width="25%">
@@ -212,14 +156,6 @@ Android • XML • Java
 
 ### IoT  
 Sensors • Hardware  
-
-<a href="mailto:bilalramzan.cs@gmail.com">
-<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/923054781924">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
 
 </td>
 
