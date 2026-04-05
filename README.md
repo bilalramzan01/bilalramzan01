@@ -106,8 +106,7 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&langs_count=8&theme=github_dark&hide_border=true" 
-    alt="Most Used Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&langs_count=8" 
   />
 </p>
 
