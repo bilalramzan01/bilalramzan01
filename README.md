@@ -88,27 +88,144 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 
 ## 🚀 Skills
 
-<div align="center">
+<table>
+<tr>
 
-### 🌐 Development
-![Website Development](https://img.shields.io/badge/Website%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Mobile App Development](https://img.shields.io/badge/Mobile%20App%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![WordPress Development](https://img.shields.io/badge/WordPress%20Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
 
----
+### Python  
+AI • Automation • Backend  
 
-### 🧠 AI & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<a href="mailto:bilalramzan.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://wa.me/923054781924">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-### 🔌 Hardware & Systems
-![IoT](https://img.shields.io/badge/IoT-FF5E00?style=for-the-badge&logo=raspberrypi&logoColor=white)
+</td>
 
-</div>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/>
 
+### C Language  
+Programming • Logic  
+
+<a href="mailto:bilalramzan.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/923054781924">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+
+### Web Development  
+HTML • CSS • WordPress  
+
+<a href="mailto:bilalramzan.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/923054781924">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+
+### SQL / Database  
+Queries • Data  
+
+<a href="mailto:bilalramzan.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/923054781924">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
+
+### Machine Learning  
+Models • Prediction  
+
+<a href="mailto:bilalramzan.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/923054781924">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60"/>
+
+### Computer Vision  
+Image Processing  
+
+<a href="mailto:bilalramzan.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/923054781924">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60"/>
+
+### Mobile Apps  
+Android • XML • Java  
+
+<a href="mailto:bilalramzan.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/923054781924">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="60"/>
+
+### IoT  
+Sensors • Hardware  
+
+<a href="mailto:bilalramzan.cs@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/923054781924">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 ## 📈 GitHub Stats
