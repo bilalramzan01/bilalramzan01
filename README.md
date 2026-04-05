@@ -88,38 +88,38 @@ The project aims to enhance early diagnosis, improve healthcare decision-making,
 
 ## 🚀 Skills
 
-<table>
+<table width="100%" align="center">
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
 
 ### Python  
-AI • Automation • Backend  
+AI • Backend  
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/>
 
-### C Language  
-Programming • Logic  
+### C  
+Programming  
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
 
-### Web Development  
-HTML • CSS • WordPress  
+### Web Dev  
+HTML • CSS  
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
 
-### SQL / Database  
-Queries • Data  
+### SQL  
+Database  
 
 </td>
 
@@ -127,43 +127,37 @@ Queries • Data
 
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
 
-### Machine Learning  
-Models • Prediction  
+### ML  
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60"/>
 
-### Computer Vision  
-Image Processing  
+### CV  
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60"/>
 
-### Mobile Apps  
-Android • XML • Java  
+### Mobile  
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="25%" style="padding: 20px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="60"/>
 
 ### IoT  
-Sensors • Hardware  
 
 </td>
 
 </tr>
 
 </table>
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilalramzan01\&theme=radical\&hide_border=true)
