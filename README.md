@@ -1,7 +1,7 @@
 #   Hi there, I'm Bilal Ramzan! 
 ![Profile Views](https://komarev.com/ghpvc/?username=bilalramzan01&color=blue&style=flat-square)
 
-👋 Hi, I'm **Bilal Ramzan**, a **Computer Science graduate** and **Data Scientist & AI enthusiast** from Lahore, Pakistan.  
+👋 Hello, I'm **Bilal Ramzan**, a **Computer Science graduate** and **Data Scientist & AI enthusiast** from Lahore, Pakistan.  
 I specialize in applying **data science, machine learning, and AI-driven approaches** to solve real-world problems and support informed decision-making across diverse domains.
 
 ---
