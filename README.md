@@ -4,6 +4,103 @@
 👋 Hello, I'm **Bilal Ramzan**, a **Computer Science graduate** and **Data Scientist & AI enthusiast** from Lahore, Pakistan.  
 I specialize in applying **data science, machine learning, and AI-driven approaches** to solve real-world problems and support informed decision-making across diverse domains.
 
+<h1 align="center">Hi 👋, I'm Bilal Ramzan</h1>
+<h3 align="center">🚀 Software Engineer | Data Engineer | Web Developer</h3>
+
+<p align="center">
+  <a href="mailto:bilalramzan.cs@gmail.com">📧 Email</a> •
+  <a href="https://github.com/bilalramzan01">💻 GitHub</a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+💡 Passionate Computer Science graduate with strong skills in **software development, data engineering, and web technologies**.  
+⚡ I love building scalable systems, solving problems, and creating impactful digital solutions.  
+📈 Always learning and exploring new technologies.  
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+---
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 💼 Work Experience
+
+### 🏢 Web Developer — The GenomeX
+📅 2025  
+
+### 🏢 Financial Analyst — FinSol Consult
+📅 2023 – 2025  
+
+### 🏢 Data Engineer — Intime Study Advisor
+📅 2024 – 2025  
+
+---
+
+## 🚀 Projects
+
+### ❤️ Cardio Graph Pro
+- Real-time ECG monitoring system  
+- Arduino + cloud integration  
+
+---
+
+## 🏆 Achievements
+
+🥇 Gold Medalist – BS Computer Science  
+🎓 CGPA: 3.84 / 4.00  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalramzan01&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 bilalramzan.cs@gmail.com  
+💻 https://github.com/bilalramzan01  
+
+---
+
+⭐ *"Striving to turn ideas into impactful solutions"*  
+
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilalramzan01\&theme=radical\&hide_border=true)
