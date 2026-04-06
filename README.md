@@ -80,27 +80,6 @@ I specialize in applying **data science, machine learning, and AI-driven approac
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalramzan01&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-📧 bilalramzan.cs@gmail.com  
-💻 https://github.com/bilalramzan01  
-
----
-
-⭐ *"Striving to turn ideas into impactful solutions"*  
-
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilalramzan01\&theme=radical\&hide_border=true)
@@ -132,3 +111,5 @@ I specialize in applying **data science, machine learning, and AI-driven approac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalramzan06/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bilal.ramzan01)
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-24292e?style=for-the-badge&logo=react&logoColor=white)](https://bilalramzan01.github.io/bilalramzan01/)
+
+⭐ *"Striving to turn ideas into impactful solutions"*  
