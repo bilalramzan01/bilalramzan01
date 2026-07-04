@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Ramzan</h1>
 
 <h3 align="center">
-Software Engineer • Python Developer • AI & Data Engineer • Full Stack Developer
+Python Developer • AI & Data Engineer
 </h3>
 
 <p align="center">
