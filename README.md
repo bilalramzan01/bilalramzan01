@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Ramzan</h1>
 
 <h3 align="center">
-Python Developer • AI & Data Engineer
+Python Developer || AI & Data Engineer
 </h3>
 
 <p align="center">
@@ -19,9 +19,9 @@ Passionate about building scalable backend systems, intelligent applications, an
 
 🎓 Gold Medalist in BS Computer Science (CGPA **3.84/4.00**)
 
-💻 Software Engineer with professional experience in **Python Backend Development, AI-powered validation systems, Data Engineering, ETL Pipelines, Web Development, and Financial Data Analysis.**
+💻 Computer Science graduate passionate about Python development, AI, Data Engineering, Backend Development, and Full-Stack Web Development.
 
-🚀 Passionate about designing scalable software, building data-driven applications, and continuously learning emerging technologies.
+🚀 Dedicated to building scalable software, developing data-driven applications, and continuously learning emerging technologies.
 
 🌱 Currently exploring
 
