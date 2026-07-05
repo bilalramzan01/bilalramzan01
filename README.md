@@ -182,6 +182,12 @@ Minhaj University Lahore
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilalramzan01\&theme=radical\&hide_border=true)
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan01&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
+
 <table cellspacing="20">
   <tr>
     <td>
