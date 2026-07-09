@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Ramzan</h1>
 
 <h3 align="center">
-Python Developer || AI & Data Engineer
+Data Sciectist || Python Developer || AI & Data Engineer
 </h3>
 
 <p align="center">
